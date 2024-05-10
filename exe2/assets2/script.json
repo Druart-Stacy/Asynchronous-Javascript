@@ -1,0 +1,72 @@
+    [
+    { 
+      "titre": "Bad",
+      "chanteur": "Michael Jackson",
+      "année": "1987",
+      "album": "Bad",
+      "genre": "pop"
+    },
+      { 
+        "titre": "Thriller",
+        "chanteur": "Michael Jackson",
+        "année": "1982",
+        "album": "Thriller",
+        "genre": "pop"
+      },
+      { 
+        "titre": "Waka Waka",
+        "chanteur": "Shakira",
+        "année": "2010",
+        "album": "Sale el sol",
+        "genre": "pop"
+      },
+      { 
+        "titre": "No Stress",
+        "chanteur": "Laurent Wolf",
+        "année": "2008",
+        "album": "Wash my Word",
+        "genre": "electronique"
+      },
+      { 
+        "titre": "Flowers",
+        "chanteur": "Miley Cyrus",
+        "année": "2023",
+        "album": "Endless Summer Vacation",
+        "genre": "pop"
+      },
+      { 
+        "titre": "Yes, And",
+        "chanteur": "Ariana Grande",
+        "année": "2024",
+        "album": "Eternal Sunshine",
+        "genre": "pop"
+      },
+      { 
+        "titre": "Casanova",
+        "chanteur": "Gazo et Soolking",
+        "année": "2024",
+        "album": "Top Hit 2024",
+        "genre": "***"
+      },
+      { 
+        "titre": "Greedy",
+        "chanteur": "Tate McRae",
+        "année": "2023",
+        "album": "Think Later",
+        "genre": "pop"
+      },
+      { 
+        "titre": "Summer",
+        "chanteur": "Calvin Harris",
+        "année": "2014",
+        "album": "***",
+        "genre": "***"
+      },
+      { 
+        "titre": "Ghost",
+        "chanteur": "Michael Jackson",
+        "année": "1996",
+        "album": "Dangerous",
+        "genre": "pop"
+      }
+    ]

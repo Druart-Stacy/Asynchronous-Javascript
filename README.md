@@ -3,6 +3,7 @@
 
 
 ## 🔎 Mission :
+
   ### ex1
   Vous l'utilisez probablement déjà, mais si ce n'est pas le cas, installez-la. ok
   Pour cet exercice, nous allons utiliser l'extension live-server de VSCode, qui nous permet d'avoir un backend opérationnel en quelques secondes.ok
@@ -51,3 +52,6 @@
 ## 🧑 Crédits:
 Stacy Druart
 
+## sources:
+https://agify.io/documentation
+https://developer.mozilla.org/fr/docs/Web/API/Fetch_API/Using_Fetch

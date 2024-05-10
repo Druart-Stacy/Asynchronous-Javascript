@@ -1,0 +1,51 @@
+
+@media screen and (max-width: 700px) {
+
+    @media screen and (max-width: 700px) {
+        .container {
+            background-color: violet;
+            border: 4mm ridge rgba(211, 220, 50, .6);
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            display: flex;
+            flex-direction: column; /* Pour afficher les éléments en colonne */
+            align-items: center; /* Centrer les éléments horizontalement */
+        }
+    
+    }
+    #conteneur-cartes p {
+        color: red; 
+    }
+   
+}
+/*************************************** Media Query for larger screens***************************************************************/
+@media screen and (min-width: 701px) and (max-width: 2000px) {
+    .container {
+        // display: flex;
+        // justify-content: center;
+        // align-items: center;
+        // height: 100vh; 
+        background-color: violet;        
+        border: 4mm ridge rgba(211, 220, 50, .6);
+        // height: 50%;
+        // width: 50%;
+        // margin-top: 30%;
+        position: absolute;
+        transform: translate(50%, 50%);
+    }
+    #conteneur-cartes {
+        background-color: violet;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #conteneur-cartes p {
+        color: red; 
+    }
+    .carte {
+        width: 100%;
+        margin: 10px 0;
+    }
+}
